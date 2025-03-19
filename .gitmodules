@@ -1,0 +1,3 @@
+[submodule "rife-ncnn-vulkan"]
+	path = rife-ncnn-vulkan
+	url = git@github.com:nihui/rife-ncnn-vulkan.git
