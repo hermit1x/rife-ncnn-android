@@ -1,0 +1,13 @@
+{
+    "name": "Android",
+    "includePath": [
+        "${workspaceFolder}/src"
+    ],
+    "defines": [
+    ],
+    "compilerPath": "/Users/hh/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++",
+    "cStandard": "c11",
+    "cppStandard": "c++17",
+    "intelliSenseMode": "clang-x64",
+    "configurationProvider": "ms-vscode.cmake-tools"
+}
