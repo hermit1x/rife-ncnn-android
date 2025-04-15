@@ -1,3 +1,14 @@
 {
-    "cmake.cmakePath": "/Users/hh/Library/Android/sdk/cmake/3.22.1/bin/cmake"
+    "cmake.cmakePath": "/Users/hh/Library/Android/sdk/cmake/3.22.1/bin/cmake",
+    "cmake.configureSettings": {
+        "CMAKE_EXPORT_COMPILE_COMMANDS": true
+    },
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/build",
+        "-j=4",
+        "--background-index",
+        "--pch-storage=memory",
+        "--limit-results=500",
+        "--log=info"
+    ]
 }
